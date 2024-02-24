@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MyReferralJobApp",
+    "slug": "MyReferralJobApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MyReferralJobApp"
+}
